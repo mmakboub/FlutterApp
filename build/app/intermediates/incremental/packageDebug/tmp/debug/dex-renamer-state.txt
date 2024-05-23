@@ -1,0 +1,4 @@
+#Sat May 18 23:58:55 CEST 2024
+base.0=C\:\\Users\\HP\\Desktop\\freelance\\Flutter\\lorel_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

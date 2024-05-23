@@ -1,0 +1,1 @@
+ C:\\Users\\HP\\Desktop\\freelance\\Flutter\\lorel_app\\.dart_tool\\flutter_build\\be279a2c1bd4360df40cdccd96fe527d\\native_assets.yaml: 
